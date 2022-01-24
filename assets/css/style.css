@@ -1,0 +1,30 @@
+* {
+    font-family: "Cabin", sans-serif;
+}
+
+.qs-icon {
+    background-color: #1cbfec;
+}
+
+.card-body {
+    background-color: #1cbfec;
+}
+
+.btn {
+    background-color: #1cbfec;
+}
+
+.nav-link {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    max-width: 100%;
+}
+
+#footer {
+    background-color: #1cbfec;
+}
